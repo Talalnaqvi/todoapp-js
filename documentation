@@ -1,0 +1,25 @@
+in this project i learned about following things 
+
+1- window.onload function
+2- how to push a value dynamically in array
+3- the main objective in this project is to learn the working of local storage and i learned about get and set item of local storage
+4-Append Child Function in which i learned about showing the value in the form of list
+5-
+
+  // window.onload function is a buid function which performs its task after the page is refreshed
+  6- how to create div in js and insert data from array in div
+  // newListItem.innerHTML = value ;
+    // newListItem.innerHTML = deleteBt
+
+    // myList.appendChild(newListItem) ;
+    // myList.appendChild(icon);
+
+7-Array from method which basically makes an array from something like data from dom or make an array from string etc
+8-splice methof array which accepts the index of array as an argument
+9-how can i access the all elements from dom
+
+
+// Remove the div from the DOM
+// Remove the corresponding value from the inputValues array
+
+// Update local storage

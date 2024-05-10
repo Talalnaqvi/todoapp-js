@@ -1,0 +1,86 @@
+.navbar {
+    display: inline-flex;
+    flex-direction: column;
+    width: 260px;
+    height: 100vh;
+    background-color: #7e7047;
+    align-items: center;
+    margin: 0px;
+    padding: 0px;
+  }
+  .body {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;;
+    /* justify-content: center;
+    align-items: center; */
+    width: 100%;
+    /* border: 2px solid red; */
+    height: 100vh;
+    background-color: #D6CC99;
+    /* border: 2px solid red; */
+  }
+      .center{
+          /* border:2px solid red; */
+          height:100vh;
+          width:40%;
+  
+      }
+      #show{
+        
+      }
+       .navbar li a{
+          text-decoration: none;
+          color:white;
+         
+  
+      }
+      
+      .rightside{
+          /* border:2px solid red; */
+          height:100vh;
+          width:40%;
+      }
+      #show{
+          /* border:2px solid red; */
+          width:100%;
+          height:65vh;
+          margin-top:50px;
+         white-space: nowrap;
+          overflow-y: scroll;
+      }
+  
+      #todos{
+          width:100%;
+          height:50px;
+  
+      }
+      .btn {
+          margin-top:10px;
+      }
+    #myList{
+        display: inline-flex;
+  
+        flex-direction: column; 
+       
+        align-items:flex-start;
+        
+      }
+      
+      .fa-solid{
+        
+       
+
+
+        
+        
+        
+      }
+      .listitems{
+        background-color: #FFF2D8;
+        height:50px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom:25px;
+      }
